@@ -34,8 +34,8 @@ This system ensures a **robust, attack-resistant environment** by continuously v
 
 
 ## 🎥 **Demo Videos**
-- 📌 **[Security Demo](Security_Demo.mp4)** – Highlights the **security mechanisms** in place, including **RBAC implementation, authentication flow, and security code features**.
-- 📌 **[Web App Demo](Web_App_Demo.mp4)** – Showcases the **general functionality and GUI** of the web application.
+- 📌 **[Security Demo](Security%20Demo.mp4)** – Highlights the **security mechanisms** in place, including **RBAC implementation, authentication flow, and security code features**.
+- 📌 **[Web App Demo](Web%20App%20Demo.mp4)** – Showcases the **general functionality and GUI** of the web application.
 
 ---
 
@@ -102,9 +102,9 @@ npm start
 ## 🔍 **Threat Modeling & Security Analysis**
 A comprehensive **threat model** was conducted to identify **attack vectors and mitigations**. This includes **STRIDE-based analysis**, security **countermeasures**, and **RBAC enforcement strategies**.
 
-- 📄 **[Threat Model Report](Threat_Modeling.docx)**
+- 📄 **[Threat Model Report](Threat%20Modeling.docx)**
 - 📄 **[Full Security Analysis](Group_Two_503M_GCS_Report.docx)**
-- 📜 **[RBAC Diagram](RBAC_Diagram.pdf)** (Role-Permission Structure)
+- 📜 **[RBAC Diagram](RBAC%20Diagram.pdf)** (Role-Permission Structure)
 
 ---
 
