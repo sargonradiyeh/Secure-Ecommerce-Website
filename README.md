@@ -41,14 +41,14 @@ This system ensures a **robust, attack-resistant environment** by continuously v
 
 ## 📂 **Project Structure**
 ```
-/rbac-web-app
+/secure-ecommerce-website
 │── backend/             # Flask-based backend (RBAC logic, APIs, authentication)
 │── frontend/            # React-based frontend (user interface, authentication flow)
-├── Threat_Modeling.docx   # Threat modeling and security assessment
+├── Threat Modeling.docx   # Threat modeling and security assessment
 ├── Group_Two_503M_GCS_Report.docx  # Security implementation details
-├── RBAC_Diagram.pdf  # RBAC architecture diagram
-│── Security_Demo.mp4     # Security-focused application demo
-│── Web_App_Demo.mp4      # GUI walkthrough and application features
+├── RBAC Diagram.pdf  # RBAC architecture diagram
+│── Security Demo.mp4     # Security-focused application demo
+│── Web App Demo.mp4      # GUI walkthrough and application features
 │── README.md             # Main project documentation
 ```
 
@@ -103,7 +103,7 @@ npm start
 A comprehensive **threat model** was conducted to identify **attack vectors and mitigations**. This includes **STRIDE-based analysis**, security **countermeasures**, and **RBAC enforcement strategies**.
 
 - 📄 **[Threat Model Report](Threat%20Modeling.docx)**
-- 📄 **[Full Security Analysis](Group_Two_503M_GCS_Report.docx)**
+- 📄 **[Detailed Overall Report](Group_Two_503M_GCS_Report.docx)**
 - 📜 **[RBAC Diagram](RBAC%20Diagram.pdf)** (Role-Permission Structure)
 
 ---
